@@ -64,4 +64,4 @@ The game connects to Overworld's GPU servers via:
 
 ## License
 
-MIT
+GPL-3.0 license
