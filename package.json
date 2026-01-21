@@ -1,0 +1,11 @@
+{
+  "name": "neuroquest",
+  "version": "0.1.0",
+  "description": "Brain navigation game using Waypoint world model",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": ["game", "brain", "waypoint", "overworld"],
+  "license": "MIT"
+}
